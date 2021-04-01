@@ -39,6 +39,11 @@ A curated repository for various papers in the domain of split learning.
 
 
 ## Split Inference
+
+[Interpretable Complex-Valued Neural Networks for Privacy Protection] (https://openreview.net/forum?id=S1xFl64tDr)
+
+[Mitigating_Information_Leakage_in_Image_Representations_A_Maximum_Entropy_Approach](https://openaccess.thecvf.com/content_CVPR_2019/papers/Roy_Mitigating_Information_Leakage_in_Image_Representations_A_Maximum_Entropy_Approach_CVPR_2019_paper.pdf)
+
 [NoPeek: Information leakage reduction to share activations in distributed deep learning](https://arxiv.org/abs/2008.09161)
 
 [PRIVATE SPLIT INFERENCE OF DEEP NETWORKS](https://openreview.net/pdf?id=iqmOTi9J7E8)
@@ -46,6 +51,8 @@ A curated repository for various papers in the domain of split learning.
 [DISCO: Dynamic and Invariant Sensitive Channel Obfuscation for deep neural networks](https://arxiv.org/abs/2012.11025)
 
 ## Attacks
+[Model Inversion Attacks Against Collaborative Inference](https://dl.acm.org/doi/10.1145/3359789.3359824)
+
 [Unleashing the Tiger: Inference Attacks on Split Learning](https://arxiv.org/abs/2012.02670)
 
 
