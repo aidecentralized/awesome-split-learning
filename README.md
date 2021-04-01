@@ -40,7 +40,7 @@ A curated repository for various papers in the domain of split learning.
 
 ## Split Inference
 
-[Interpretable Complex-Valued Neural Networks for Privacy Protection] (https://openreview.net/forum?id=S1xFl64tDr)
+[Interpretable Complex-Valued Neural Networks for Privacy Protection](https://openreview.net/forum?id=S1xFl64tDr)
 
 [Mitigating_Information_Leakage_in_Image_Representations_A_Maximum_Entropy_Approach](https://openaccess.thecvf.com/content_CVPR_2019/papers/Roy_Mitigating_Information_Leakage_in_Image_Representations_A_Maximum_Entropy_Approach_CVPR_2019_paper.pdf)
 
