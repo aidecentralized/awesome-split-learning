@@ -37,6 +37,14 @@ A curated repository for various papers in the domain of split learning.
 
 [No Peek: A Survey of private distributed deep learning](https://arxiv.org/abs/1812.03288)
 
+[SplitGNN: Splitting GNN for Node Classification with Heterogeneous Attention](https://arxiv.org/pdf/2301.12885.pdf)
+
+[split learning vertically](https://www.google.com/search?q=Ramesh+Raskar+split+learning+2023&client=ubuntu-sn&hs=NYa&channel=fs&sxsrf=AB5stBiYLzBzKnA0mgdfHZ1QQNMkeAb-Xg%3A1688280883102&ei=Mx-hZNr7BfWhptQPzb-PaA&ved=0ahUKEwia4cWyuO__AhX1kIkEHc3fAw0Q4dUDCA4&uact=5&oq=Ramesh+Raskar+split+learning+2023&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQogQyBQgAEKIEOgsIABCKBRCGAxCwAzoFCCEQoAE6BAghEBVKBAhBGAFQ5wFYiQ9g9BVoAXAAeACAAX-IAZQEkgEDMS40mAEAoAEBwAEByAEC&sclient=gws-wiz-serp#fpstate=ive&vld=cid:a617bcc0,vid:pzJ32gK1__M)
+
+
+
+
+
 
 ## Split Inference
 
@@ -50,10 +58,27 @@ A curated repository for various papers in the domain of split learning.
 
 [DISCO: Dynamic and Invariant Sensitive Channel Obfuscation for deep neural networks](https://arxiv.org/abs/2012.11025)
 
+## surveys
+
+[Decentralized Learning in Healthcare: A Review of Emerging Techniques](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10141615)
+
+
+
 ## Attacks
+
 [Model Inversion Attacks Against Collaborative Inference](https://dl.acm.org/doi/10.1145/3359789.3359824)
 
 [Unleashing the Tiger: Inference Attacks on Split Learning](https://arxiv.org/abs/2012.02670)
 
+[Bounding the Invertibility of Privacy-preserving Instance Encoding using Fisher Information](https://arxiv.org/pdf/2305.04146.pdf)
 
-## Talks
+## Attacks
+
+[EXACT: Extensive Attack for Split Learning](https://arxiv.org/pdf/2305.12997.pdf)
+## Code links
+[SplitFed: When Federated Learning Meets Split Learning](https://github.com/chandra2thapa/SplitFed-When-Federated-Learning-Meets-Split-Learning)
+
+[Split Neural Networks on PySyft](https://medium.com/analytics-vidhya/split-neural-networks-on-pysyft-ed2abf6385c0)
+
+## courses
+[OpenMinded AI concering privacy courses](https://courses.openmined.org/courses/foundations-of-private-computation)
