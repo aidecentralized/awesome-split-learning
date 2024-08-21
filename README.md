@@ -45,6 +45,8 @@ A curated repository for various papers in the domain of split learning.
 
 [Speed up federated learning in heterogeneous environment: A dynamic tiering approach](https://arxiv.org/pdf/2312.05642)
 
+[Communication-Efficient Training Workload Balancing for Decentralized Multi-Agent Learning](https://arxiv.org/pdf/2405.00839)
+
 
 
 
