@@ -43,6 +43,7 @@ A curated repository for various papers in the domain of split learning.
 
 [PFSL: Personalized & Fair Split Learning with Data & Label Privacy for thin clients](https://ieeexplore.ieee.org/document/10171521)
 
+[Speed up federated learning in heterogeneous environment: A dynamic tiering approach](https://arxiv.org/pdf/2312.05642)
 
 
 
