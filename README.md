@@ -83,6 +83,8 @@ A curated repository for various papers in the domain of split learning.
 ## Code links
 [SplitFed: When Federated Learning Meets Split Learning](https://github.com/chandra2thapa/SplitFed-When-Federated-Learning-Meets-Split-Learning)
 
+[FRACTAL: Edge Federated Learning and Partitioned Model Execution](https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace)
+
 [Split Neural Networks on PySyft](https://medium.com/analytics-vidhya/split-neural-networks-on-pysyft-ed2abf6385c0)
 [PFSL: Personalized & Fair Split Learning with Data & Label Privacy for thin clients](https://github.com/mnswdhw/pfsl)
 
